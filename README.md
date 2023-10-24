@@ -7,6 +7,7 @@ Artificial neural network and other machine learning models including k-nearest 
 Grid search with 5-fold cross validation was implemented to optimize hyperparameters of artificial neuralnetwork and machine learning models.   
 The artificial neural network models performed the best in MSE and R-squared scores for all the electrical parameters and loss prediction. The results indicate that artificial neural networks are more successful at handling complicated nonlinear relationships like those seen in electrical systems compared with other machine learning algorithms.  
 Also, PCA analysis and correlation matrix analysis are conducted.  
+This projected was implemented at Volvo Cars Corporation as a Master thesis project.  
 
 [Github Link](https://github.com/yy7-f/ML_for_EV_parameters_and_Losses)
 
