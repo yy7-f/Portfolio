@@ -20,9 +20,7 @@ Unet models optimized with the Dice Loss and binary cross entropy loss are devel
 ![Brain](/images/brainmri.png)
 
 ## Maintenance Prediction for Turbofan Jet Engine
-LSTM, RNN, and 1D-CNN models were developed for regression and classification tasks using time series data. Dimension reduction was also conducted through data analysis. 
-Regression objective: Predicting the remaining useful life (RUL) of a machine  
-Classification objective: Predicting the failure of machine in upcoming specific periods  
+LSTM, RNN, and 1D-CNN models were developed for regression and classification tasks using time series data. Dimension reduction was also conducted through data analysis. Regression objective is Predicting the remaining useful life (RUL) of a machine. Classification objective is Predicting the failure of machine in upcoming specific periods  
 [Github Link](https://github.com/yy7-f/Maintenance-Prediction-for-Turbofan-Jet-Engine)
 
 ![image](https://github.com/yy7-f/Portfolio/assets/76237852/193d9cb9-726b-48c8-9e9d-2b599ac4a481)
