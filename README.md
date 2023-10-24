@@ -3,24 +3,24 @@
 ## Neural Networks and Machine Learning for Modeling of Electrical Parameters and Losses in Electric Vehicle
 [Publication Link](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1789150&dswid=1220)
 
-Artificial neural network and other machine learning models including k-nearest neighbors, decision tree, random forest, and multiple linear regression with a quadratic model are developed to predict electrical parameters and losses as new prediction approaches for the performance of Volvo Cars’ electric vehicles and evaluate their performance.  
+Artificial neural network and other machine learning models including k-nearest neighbors, decision tree, random forest, and multiple linear regression with a quadratic model are developed to predict electrical parameters and losses as new prediction approaches for the performance of Volvo Cars’ electric vehicles and evaluate their performance. Grid search 
 [Github Link](https://github.com/yy7-f/ML_for_EV_parameters_and_Losses)
 
 ![EV](/images/electricvehicle.jpg)
 
 ## Brain Tumor Segmentation using Unet
-Developed Unet models optimized with the Dice Loss and binary cross entropy loss for brain tumor segmentation.  
+Developed Unet models optimized with the Dice Loss and binary cross entropy loss for brain tumor segmentation using brain MRI image data. Dice coefficient acheived around 0.8. 
 [Github Link](https://github.com/yy7-f/Unet-Brain-Segmentation)
 
 ![Brain](/images/brainmri.png)
 
 ## Maintenance Prediction for Turbofan Jet Engine
-LSTM, RNN, and 1D-CNN models are developed for regression and classification tasks using time series data.  
+LSTM, RNN, and 1D-CNN models were developed for regression and classification tasks using time series data. Dimension reduction was also conducted through data analysis. 
 Regression objective: Predicting the remaining useful life (RUL) of a machine  
 Classification objective: Predicting the failure of machine in upcoming specific periods  
 [Github Link](https://github.com/yy7-f/Maintenance-Prediction-for-Turbofan-Jet-Engine)
 
-![image]([https://github.com/yy7-f/Portfolio/assets/76237852/a89538f8-edc8-4055-b4f9-8560ba7ec24c](https://www.bluemountainsgazette.com.au/images/transform/v1/crop/frm/123151812/35c395c0-dd71-4c9b-b766-831b2f7d9b4a.jpg/r472_315_5530_3691_w6002_h4006_fmax.jpg))
+![image]([https://github.com/yy7-f/Portfolio/assets/76237852/a89538f8-edc8-4055-b4f9-8560ba7ec24c]
 
 ## Virtual sorting system using image classfication, vision algorithm, virtual modeling, PLC programming, and robot operation
 Product sorting system in virtual production line is developed in this project.
