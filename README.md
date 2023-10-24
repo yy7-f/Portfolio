@@ -34,9 +34,7 @@ The sorting production line is built using virtual modeling (Simumatik), PLC pro
 Developed machine learning algorithms to predict the class value of a particular car based on the vehicle’s features. Categorical data was encoded followed by order. Three algorithms including k-nearest neighbor, decision tree, and random forest are executed with 10-fold cross-validation. The results are visualized and compared using confusion matrices and box plots.  
 [Github Link](https://github.com/yy7-f/Classification_Car_evaluation_UCI_repository)
 
-![Virtual](/images/car_rating.jpeg)
 
 ![image](https://github.com/yy7-f/Portfolio/assets/76237852/a89538f8-edc8-4055-b4f9-8560ba7ec24c)
 
-<img width="413" alt="image" src="https://github.com/yy7-f/Portfolio/assets/76237852/a89538f8-edc8-4055-b4f9-8560ba7ec24c">
 
