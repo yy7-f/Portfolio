@@ -3,13 +3,17 @@
 ## Neural Networks and Machine Learning for Modeling of Electrical Parameters and Losses in Electric Vehicle
 [Publication Link](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1789150&dswid=1220)
 
-Artificial neural network and other machine learning models including k-nearest neighbors, decision tree, random forest, and multiple linear regression with a quadratic model are developed to predict electrical parameters and losses as new prediction approaches for the performance of Volvo Cars’ electric vehicles and evaluate their performance. Grid search 
+Artificial neural network and other machine learning models including k-nearest neighbors, decision tree, random forest, and multiple linear regression with a quadratic model are developed to predict electrical parameters and losses as new prediction approaches for the performance of Volvo Cars’ electric vehicles and evaluate their performance.  
+Grid search with 5-fold cross validation was implemented to optimize hyperparameters of artificial neuralnetwork and machine learning models.   
+The artificial neural network models performed the best in MSE and R-squared scores for all the electrical parameters and loss prediction. The results indicate that artificial neural networks are more successful at handling complicated nonlinear relationships like those seen in electrical systems compared with other machine learning algorithms.  
+Also, PCA analysis and correlation matrix analysis are conducted.  
+
 [Github Link](https://github.com/yy7-f/ML_for_EV_parameters_and_Losses)
 
 ![EV](/images/electricvehicle.jpg)
 
 ## Brain Tumor Segmentation using Unet
-Unet models optimized with the Dice Loss and binary cross entropy loss are developed for brain tumor segmentation using brain MRI images dataset. The dataset contains brain MR images together with manual FLAIR abnormality segmentation masks. After 25 epochs training, the dice coefficient acheived around 0.8. 
+Unet models optimized with the Dice Loss and binary cross entropy loss are developed for brain tumor segmentation using brain MRI images dataset. The dataset contains brain MR images together with manual FLAIR abnormality segmentation masks. After 25 epochs training, the dice coefficient acheived around 0.8.  
 [Github Link](https://github.com/yy7-f/Unet-Brain-Segmentation)
 
 ![Brain](/images/brainmri.png)
