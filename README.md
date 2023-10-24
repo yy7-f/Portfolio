@@ -16,7 +16,6 @@ Developed Unet models optimized with the Dice Loss and binary cross entropy loss
 
 ## Maintenance Prediction for Turbofan Jet Engine
 LSTM, RNN, and 1D-CNN models are developed for regression and classification tasks using time series data.  
-Objectives:  
 Regression objective: Predicting the remaining useful life (RUL) of a machine  
 Classification objective: Predicting the failure of machine in upcoming specific periods
 [Github](https://github.com/yy7-f/Maintenance-Prediction-for-Turbofan-Jet-Engine)
@@ -28,4 +27,4 @@ Product sorting system in virtual production line is developed in this project.
 The sorting production line is built using virtual modeling (Simumatik), PLC programming (Codesys), vision algorithm (Python, OpenCV, OPCUA), image classification (CNN, Transfer learning, and HoG + ML), and robot operation (ABB Robot studio).  
 [Github](https://github.com/yy7-f/CNN_TransferLearning_HoG_ML_for_Virtual_Sorting_System)
 
-![Virtual](/images/virtual_sorting.jpeg)
+![Virtual](/images/virtual_sorting.png)
