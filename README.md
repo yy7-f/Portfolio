@@ -9,7 +9,7 @@ Artificial neural network and other machine learning models including k-nearest 
 ![EV](/images/electricvehicle.jpg)
 
 ## Brain Tumor Segmentation using Unet
-Developed Unet models optimized with the Dice Loss and binary cross entropy loss for brain tumor segmentation using brain MRI image data. Dice coefficient acheived around 0.8. 
+Unet models optimized with the Dice Loss and binary cross entropy loss are developed for brain tumor segmentation using brain MRI images dataset. The dataset contains brain MR images together with manual FLAIR abnormality segmentation masks. After 25 epochs training, the dice coefficient acheived around 0.8. 
 [Github Link](https://github.com/yy7-f/Unet-Brain-Segmentation)
 
 ![Brain](/images/brainmri.png)
