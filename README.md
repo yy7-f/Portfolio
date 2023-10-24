@@ -20,6 +20,9 @@ Regression objective: Predicting the remaining useful life (RUL) of a machine
 Classification objective: Predicting the failure of machine in upcoming specific periods  
 [Github Link](https://github.com/yy7-f/Maintenance-Prediction-for-Turbofan-Jet-Engine)
 
+![image](https://github.com/yy7-f/Portfolio/assets/76237852/202777d9-5d48-455e-8377-aeaf01e8eab3)
+
+
 ![Jet](/images/jetengine.jpeg | width=100)
 
 https://www.bluemountainsgazette.com.au/images/transform/v1/crop/frm/123151812/35c395c0-dd71-4c9b-b766-831b2f7d9b4a.jpg/r472_315_5530_3691_w6002_h4006_fmax.jpg
