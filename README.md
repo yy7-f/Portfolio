@@ -22,6 +22,9 @@ Classification objective: Predicting the failure of machine in upcoming specific
 
 ![Jet](/images/jetengine.jpeg | width=100)
 
+https://www.bluemountainsgazette.com.au/images/transform/v1/crop/frm/123151812/35c395c0-dd71-4c9b-b766-831b2f7d9b4a.jpg/r472_315_5530_3691_w6002_h4006_fmax.jpg
+
+![image]([https://github.com/yy7-f/Portfolio/assets/76237852/a89538f8-edc8-4055-b4f9-8560ba7ec24c](https://www.bluemountainsgazette.com.au/images/transform/v1/crop/frm/123151812/35c395c0-dd71-4c9b-b766-831b2f7d9b4a.jpg/r472_315_5530_3691_w6002_h4006_fmax.jpg))
 
 ## Virtual sorting system using image classfication, vision algorithm, virtual modeling, PLC programming, and robot operation
 Product sorting system in virtual production line is developed in this project.
