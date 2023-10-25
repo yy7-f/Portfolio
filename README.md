@@ -38,6 +38,10 @@ Developed machine learning algorithms to predict the class value of a particular
 [Github Link](https://github.com/yy7-f/Classification_Car_evaluation_UCI_repository)
 
 
+![image](https://github.com/yy7-f/Portfolio/assets/76237852/a89538f8-edc8-4055-b4f9-8560ba7ec24c)
+
+
+
 ＃Certificate
 - AI Engineering Professional Certificate (IBM)
 - Practical Data Science on the AWS Cloud Specialization Certificate (AWS, DeepLearning.AI)
@@ -55,7 +59,3 @@ Developed machine learning algorithms to predict the class value of a particular
 - Production Machine Learning Systems on Google Cloud (Google)
 - Data Analysis with R Programming (Google)
 - Share Data Through the Art of Visualization (Google)
-
-![image](https://github.com/yy7-f/Portfolio/assets/76237852/a89538f8-edc8-4055-b4f9-8560ba7ec24c)
-
-
