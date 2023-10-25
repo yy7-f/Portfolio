@@ -33,10 +33,28 @@ The sorting production line is built using virtual modeling (Simumatik), PLC pro
 
 ![Virtual](/images/virtual_sorting.png)
 
-# Car Rating Classification
+#＃ Car Rating Classification
 Developed machine learning algorithms to predict the class value of a particular car based on the vehicle’s features. Categorical data was encoded followed by order. Three algorithms including k-nearest neighbor, decision tree, and random forest are executed with 10-fold cross-validation. The results are visualized and compared using confusion matrices and box plots.  
 [Github Link](https://github.com/yy7-f/Classification_Car_evaluation_UCI_repository)
 
+
+＃Certificate
+- AI Engineering Professional Certificate (IBM)
+- Practical Data Science on the AWS Cloud Specialization Certificate (AWS, DeepLearning.AI)
+- Generative Adversarial Networks Specialization Certificate (DeepLearning.AI)
+- Analyze Datasets and Train ML Models using AutoML (AWS, DeepLearning.AI)
+- Build, Train, and Deploy ML Pipelines using BERT (AWS, DeepLearning.AI)
+- Optimize ML Models and Deploy Human-in-the-Loop Pipelines (AWS, DeepLearning.AI)
+- ROS2 Robotics Developer Course - Using ROS2 In Python (Udemy)
+- Python 3: Deep Dive (Object Oriented Programming) (Udemy)
+- Apply Generative Adversarial Networks (GANs) (DeepLearning.AI)
+- Advanced Learning Algorithms (DeepLearning.AI)
+- Supervised Machine Learning: Regression and Classification (DeepLearning.AI)
+- Deep Neural Networks with PyTorch (IBM)
+- Building Deep Learning Models with TensorFlow (IBM)
+- Production Machine Learning Systems on Google Cloud (Google)
+- Data Analysis with R Programming (Google)
+- Share Data Through the Art of Visualization (Google)
 
 ![image](https://github.com/yy7-f/Portfolio/assets/76237852/a89538f8-edc8-4055-b4f9-8560ba7ec24c)
 
