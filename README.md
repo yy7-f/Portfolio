@@ -37,6 +37,10 @@ The sorting production line is built using virtual modeling (Simumatik), PLC pro
 
 Developed DCGANs (Deep Convolutional Generative Adversarial Networks) with Pytorch to generate new data using MNIST handwritten digit data.
 
+[Github Link](https://github.com/yy7-f/DCGAN-MNIST-handwritten-digit)
+
+https://user-images.githubusercontent.com/76237852/278683453-ac4aec20-bf4d-4a39-a85d-eeeb6caac62c.png![image](https://github.com/yy7-f/Portfolio/assets/76237852/b4b63b01-1369-4724-a2b6-bd1d8bdae30f)
+
 
 
 ## Car Rating Classification
