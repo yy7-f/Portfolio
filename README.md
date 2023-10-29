@@ -1,6 +1,7 @@
 # Machine Learning Projects
 
 ## Neural Networks and Machine Learning for Modeling of Electrical Parameters and Losses in Electric Vehicle
+[Github Link](https://github.com/yy7-f/ML_for_EV_parameters_and_Losses)  
 [Publication Link](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1789150&dswid=1220)
 
 Artificial neural network and other machine learning models including k-nearest neighbors, decision tree, random forest, and multiple linear regression with a quadratic model are developed to predict electrical parameters and losses as new prediction approaches for the performance of Volvo Cars’ electric vehicles and evaluate their performance.  
@@ -9,7 +10,6 @@ The artificial neural network models performed the best in MSE and R-squared sco
 Also, PCA analysis and correlation matrix analysis are conducted.  
 This projected was implemented at Volvo Cars Corporation as a Master thesis project.  
 
-[Github Link](https://github.com/yy7-f/ML_for_EV_parameters_and_Losses)
 
 ![EV](/images/electricvehicle.jpg)
 
@@ -32,6 +32,12 @@ The sorting production line is built using virtual modeling (Simumatik), PLC pro
 [Github Link](https://github.com/yy7-f/CNN_TransferLearning_HoG_ML_for_Virtual_Sorting_System)
 
 ![Virtual](/images/virtual_sorting.png)
+
+## DCGAN for generating new data using MNIST dataset
+
+Developed DCGANs (Deep Convolutional Generative Adversarial Networks) with Pytorch to generate new data using MNIST handwritten digit data.
+
+
 
 ## Car Rating Classification
 Developed machine learning algorithms to predict the class value of a particular car based on the vehicle’s features. Categorical data was encoded followed by order. Three algorithms including k-nearest neighbor, decision tree, and random forest are executed with 10-fold cross-validation. The results are visualized and compared using confusion matrices and box plots.  
