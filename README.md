@@ -20,7 +20,7 @@ Unet models optimized with the Dice Loss and binary cross entropy loss are devel
 ![Brain](/images/brainmri.png)
 
 ## Maintenance Prediction for Turbofan Jet Engine
-LSTM, RNN, and 1D-CNN models were developed for regression and classification tasks using time series data. Dimension reduction was also conducted through data analysis. Regression objective is Predicting the remaining useful life (RUL) of a machine. Classification objective is Predicting the failure of machine in upcoming specific periods  
+LSTM, RNN, and 1D-CNN models were developed for regression and classification tasks using time series data. Dimension reduction was also conducted through data analysis. Regression objective is Predicting the remaining useful life (RUL) of a machine. Classification objective is Predicting the failure of machine in upcoming specific periods.  
 [Github Link](https://github.com/yy7-f/Maintenance-Prediction-for-Turbofan-Jet-Engine)
 
 ![image](https://github.com/yy7-f/Portfolio/assets/76237852/193d9cb9-726b-48c8-9e9d-2b599ac4a481)
@@ -35,11 +35,10 @@ The sorting production line is built using virtual modeling (Simumatik), PLC pro
 
 ## DCGAN for generating new data using MNIST dataset
 
-Developed DCGANs (Deep Convolutional Generative Adversarial Networks) with Pytorch to generate new data using MNIST handwritten digit data.
-
+Developed DCGANs (Deep Convolutional Generative Adversarial Networks) with Pytorch to generate new data using MNIST handwritten digit data.  
 [Github Link](https://github.com/yy7-f/DCGAN-MNIST-handwritten-digit)
 
-https://user-images.githubusercontent.com/76237852/278683453-ac4aec20-bf4d-4a39-a85d-eeeb6caac62c.png![image](https://github.com/yy7-f/Portfolio/assets/76237852/b4b63b01-1369-4724-a2b6-bd1d8bdae30f)
+![image](https://github.com/yy7-f/Portfolio/assets/76237852/b4b63b01-1369-4724-a2b6-bd1d8bdae30f)
 
 
 
