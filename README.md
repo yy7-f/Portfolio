@@ -36,11 +36,11 @@ The sorting production line is built using virtual modeling (Simumatik), PLC pro
 ## DCGAN for generating new data using MNIST dataset
 
 Developed DCGANs (Deep Convolutional Generative Adversarial Networks) with Pytorch to generate new data using MNIST handwritten digit data.  
-Architecture of DCGANs
-• Replace all pooling layers with strided convolutions
-• Use batchnorm in both the generator and the discriminator
-• Remove fully connected hidden layers
-• Use ReLU activation in generator for all layers except for the output (Tanh is used for the output)
+Architecture of DCGANs  
+• Replace all pooling layers with strided convolutions  
+• Use batchnorm in both the generator and the discriminator  
+• Remove fully connected hidden layers  
+• Use ReLU activation in generator for all layers except for the output (Tanh is used for the output)  
 • Use LeakyReLU activation in the discriminator for all layers  
 [Github Link](https://github.com/yy7-f/DCGAN-MNIST-handwritten-digit)
 
