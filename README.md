@@ -42,7 +42,10 @@ Architecture of DCGANs
 • Remove fully connected hidden layers  
 • Use ReLU activation in generator for all layers except for the output (Tanh is used for the output)  
 • Use LeakyReLU activation in the discriminator for all layers  
+  
 [Github Link](https://github.com/yy7-f/DCGAN-MNIST-handwritten-digit)
+
+<img width="750" alt="image" src="https://github.com/yy7-f/Portfolio/assets/76237852/5b769b81-5438-4f0a-92ef-bb36974ce17e">
 
 ![image](https://github.com/yy7-f/Portfolio/assets/76237852/b4b63b01-1369-4724-a2b6-bd1d8bdae30f)
 
