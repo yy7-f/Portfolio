@@ -57,6 +57,19 @@ Developed machine learning algorithms to predict the class value of a particular
 
 ![image](https://github.com/yy7-f/Portfolio/assets/76237852/a89538f8-edc8-4055-b4f9-8560ba7ec24c)
 
+## staible diffusion for text-to-image using Hugging face
+Generated images from text using a pre-trained stable diffusion model (Stable Diffusion v2) on Hugging face.  
+  
+Stable Diffusion is composed of three major components:  
+- U-Net  
+- VAE  
+- Text Encoder (Transformer)  
+Stable Diffusion can efficiently generate high-resolution images by training a diffusion model on the VAE latent space.
+Text Encoder is trained on CLIP.
+Text conditioning is performed by Cross-Attention in U-Net.
+
+![image](https://github.com/yy7-f/Portfolio/assets/76237852/69d93160-d2d9-45f2-b6e0-8b39f6fb19f4)
+
 
 
 # Certificate
