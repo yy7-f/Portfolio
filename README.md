@@ -63,10 +63,12 @@ Generated images from text using a pre-trained stable diffusion model (Stable Di
 Stable Diffusion is composed of three major components:  
 - U-Net  
 - VAE  
-- Text Encoder (Transformer)  
+- Text Encoder (Transformer)   
+
 Stable Diffusion can efficiently generate high-resolution images by training a diffusion model on the VAE latent space.
 Text Encoder is trained on CLIP.
-Text conditioning is performed by Cross-Attention in U-Net.
+Text conditioning is performed by Cross-Attention in U-Net.  
+[Github Link](https://github.com/yy7-f/Stable-Diffusion-text-to-image)
 
 ![image](https://github.com/yy7-f/Portfolio/assets/76237852/69d93160-d2d9-45f2-b6e0-8b39f6fb19f4)
 
