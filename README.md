@@ -50,10 +50,9 @@ Architecture of DCGANs
 
 ## Hand Tracking and Finger Count using OpenCV 
 
-Hand Tracking:  
-Detecting and tracking 21 3D hand landmarks using mediapipe liblary faunctions.
-
-Finger Counter:  
+- Hand Tracking:  
+Detecting and tracking 21 3D hand landmarks using mediapipe liblary faunctions.  
+- Finger Counter:  
 count the number of fingers Using hand tracking module. This is useful if you want the computer to perform tasks based on the number of fingers.
 
 [Github Link](https://github.com/yy7-f/Computer-Vision-Hand-Tracking-and-Finger-Count)
