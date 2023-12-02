@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Machine Learning and Computer Vision Projects
 
 ## Neural Networks and Machine Learning for Modeling of Electrical Parameters and Losses in Electric Vehicle
 
@@ -48,7 +48,17 @@ Architecture of DCGANs
 <img width="750" alt="image" src="https://github.com/yy7-f/Portfolio/assets/76237852/5b769b81-5438-4f0a-92ef-bb36974ce17e">
 
 
+## Hand Tracking and Finger Count using OpenCV 
 
+Hand Tracking:  
+Detecting and tracking 21 3D hand landmarks using mediapipe liblary faunctions.
+
+Finger Counter:  
+count the number of fingers Using hand tracking module. This is useful if you want the computer to perform tasks based on the number of fingers.
+
+[Github Link](https://github.com/yy7-f/Computer-Vision-Hand-Tracking-and-Finger-Count)
+
+<img width="667" alt="image" src="https://github.com/yy7-f/Computer-Vision-Hand-Tracking-and-Finger-Count/assets/76237852/3dbb8459-73c3-44f5-b652-efdf5aea6c55">
 
 ## Car Rating Classification
 Developed machine learning algorithms to predict the class value of a particular car based on the vehicle’s features. Categorical data was encoded followed by order. Three algorithms including k-nearest neighbor, decision tree, and random forest are executed with 10-fold cross-validation. The results are visualized and compared using confusion matrices and box plots.  
