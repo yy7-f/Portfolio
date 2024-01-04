@@ -48,16 +48,23 @@ Architecture of DCGANs
 <img width="750" alt="image" src="https://github.com/yy7-f/Portfolio/assets/76237852/5b769b81-5438-4f0a-92ef-bb36974ce17e">
 
 
-## Hand Tracking and Finger Count using OpenCV 
+## Hand Tracking, Finger Count, Face Detection, Face Mesh, and Pose Estimation using OpenCV
 
 - Hand Tracking:  
 Detect and track 21 3D hand landmarks using OpenCV and mediapipe liblaries.
 - Finger Counter:  
 Count the number of fingers Using hand tracking module. This is useful if you want the computer to perform tasks based on the number of fingers.
+- Face Detection:   
+Detect 6 facial landmarks with bounding boxes (left eye, right eye, nose tip, mouth, left eye tragion, and right eye tragion).
+- Face Mesh:  
+Detect 468 3D face landmarks. It is useful for various applications such as emotion recognition.
+- Pose Estimation:   
+Track 33 body landmark locations in 3D world coordinates with images or video.
 
 [Github Link](https://github.com/yy7-f/Computer-Vision-Hand-Tracking-and-Finger-Count)
 
 <img width="667" alt="image" src="https://github.com/yy7-f/Computer-Vision-Hand-Tracking-and-Finger-Count/assets/76237852/3dbb8459-73c3-44f5-b652-efdf5aea6c55">
+<img width="521" alt="image" src="https://github.com/yy7-f/Computer-Vision-Hand-Tracking-Finger-Count-Face-Detection-Face-Mesh-Pose-Estimation/assets/76237852/093c0fc3-30ee-4932-9226-8d0ad77857b4">
 
 ## Car Rating Classification
 Developed machine learning algorithms to predict the class value of a particular car based on the vehicle’s features. Categorical data was encoded followed by order. Three algorithms including k-nearest neighbor, decision tree, and random forest are executed with 10-fold cross-validation. The results are visualized and compared using confusion matrices and box plots.  
