@@ -47,6 +47,14 @@ Architecture of DCGANs
 
 <img width="750" alt="image" src="https://github.com/yy7-f/Portfolio/assets/76237852/5b769b81-5438-4f0a-92ef-bb36974ce17e">
 
+## Build Pipeline, implement Hyperparameter optimization and A/B testing with BERT model on AWS
+
+- Build a SageMaker Pipeline with BERT model
+- AWS Automated Hyperparameter Tuning with RoBERTa model
+- A/B testing, traffic shifting, and autoscaling on AWS
+
+![image](https://github.com/yy7-f/Portfolio/assets/76237852/a85fb1b5-4486-4d30-a618-1418bfcd97df)
+
 
 ## Hand Tracking, Finger Count, Face Detection, Face Mesh, and Pose Estimation using OpenCV
 
